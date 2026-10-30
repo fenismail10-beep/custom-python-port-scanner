@@ -36,9 +36,11 @@ Audited the national student portal connection matrix.
 ---
 
 ## <img width="1600" height="789" alt="resultat scan massar" src="https://github.com/user-attachments/assets/918eb4d3-f2f0-43dd-a104-661a2b05b823" />
-<img width="1600" height="789" alt="resultat scan my site" src="https://github.com/user-attachments/assets/1340586d-1558-4ad3-afe2-845a6220dffe" />
-<img width="795" height="687" alt="mousepad scanner py 2" src="https://github.com/user-attachments/assets/1fc639d1-6868-4eca-a55c-b6c07cd130f9" />
-<img width="689" height="586" alt="mousepad scanner py 1" src="https://github.com/user-attachments/assets/5b9da313-ed88-48fe-9ce9-5ae970a1545c" />
+<img width="689" height="586" alt="mousepad scanner py 1" src="https://github.com/user-attachments/assets/64c6c1af-dcc3-4ab4-8cf7-47522fc61284" />
+<img width="795" height="687" alt="mousepad scanner py 2" src="https://github.com/user-attachments/assets/a332db56-5fe5-44f3-8adc-0802c2772f1e" />
+<img width="1600" height="789" alt="resultat scan my site" src="https://github.com/user-attachments/assets/08d5d887-c118-4234-835e-257f48ec8fc7" />
+<img width="1600" height="789" alt="resultat scan massar" src="https://github.com/user-attachments/assets/8208e320-205c-4d85-a144-6141c89bcd6d" />
+
  Project Portfolio Links
 Full Pentest report metrics, PowerPoint design, and architecture summaries are published inside my web archive:
 👉 **[Check My Cyber Labs Portfolio]([https://google.com](https://sites.google.com/view/ismailfendou-cybersec/my-cyber-labs))**
