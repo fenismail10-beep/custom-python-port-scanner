@@ -32,14 +32,11 @@ Verified cloud delivery infrastructure pathways and verified perimeter configura
 Audited the national student portal connection matrix.
 - **Resolved IP:** 196.200.143.196 [1, 2]
 - **States Captured:** Port 22 CLOSED | Port 80 OPEN | Port 443 OPEN [1, 2]
-
 ---
-
 <img width="689" height="586" alt="mousepad scanner py 1" src="https://github.com/user-attachments/assets/64c6c1af-dcc3-4ab4-8cf7-47522fc61284" />
 <img width="795" height="687" alt="mousepad scanner py 2" src="https://github.com/user-attachments/assets/a332db56-5fe5-44f3-8adc-0802c2772f1e" />
 <img width="1600" height="789" alt="resultat scan my site" src="https://github.com/user-attachments/assets/08d5d887-c118-4234-835e-257f48ec8fc7" />
 <img width="1600" height="789" alt="resultat scan massar" src="https://github.com/user-attachments/assets/8208e320-205c-4d85-a144-6141c89bcd6d" />
-
  Project Portfolio Links
 Full Pentest report metrics, PowerPoint design, and architecture summaries are published inside my web archive:
-👉 **[Check My Cyber Labs Portfolio]([https://google.com](https://sites.google.com/view/ismailfendou-cybersec/my-cyber-labs))**
+👉  **[Check My Cyber Labs Portfolio]([https://google.com](https://sites.google.com/view/ismailfendou-cybersec/my-cyber-labs))**
