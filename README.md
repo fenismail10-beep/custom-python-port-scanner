@@ -35,7 +35,6 @@ Audited the national student portal connection matrix.
 
 ---
 
-## <img width="1600" height="789" alt="resultat scan massar" src="https://github.com/user-attachments/assets/918eb4d3-f2f0-43dd-a104-661a2b05b823" />
 <img width="689" height="586" alt="mousepad scanner py 1" src="https://github.com/user-attachments/assets/64c6c1af-dcc3-4ab4-8cf7-47522fc61284" />
 <img width="795" height="687" alt="mousepad scanner py 2" src="https://github.com/user-attachments/assets/a332db56-5fe5-44f3-8adc-0802c2772f1e" />
 <img width="1600" height="789" alt="resultat scan my site" src="https://github.com/user-attachments/assets/08d5d887-c118-4234-835e-257f48ec8fc7" />
